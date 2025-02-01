@@ -73,9 +73,6 @@ Contributions are welcome! If you have any suggestions or improvements, please o
 4. Push to the branch (`git push origin feature/YourFeatureName`).
 5. Open a pull request.
 
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for more details.
 
 ## Acknowledgments
 
@@ -85,4 +82,4 @@ Thanks to the Streamlit team for providing an easy-to-use framework for building
 
 ## Contact
 
-For any questions or feedback, please contact [Your Name] at [your-email@example.com].
+For any questions or feedback, please contact T.Sai Kumar at tsaikumar70322@gmail.com.
